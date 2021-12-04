@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[My website](https://emmavodable.com)
+I'm a polyvalent game dev doing and constantly learning code 💁
+
+[Please come visit my website](https://emmavodable.com)
 
 <!--
 **emmavbl/emmavbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
