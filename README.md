@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hello there 👋
 
-I'm a polyvalent game dev doing and constantly learning code 💁
+I'm a polyvalent game programmer, fond off UI/UX, accessibility & narrative feature 💁
 
-[Please come visit my website](https://emmavodable.com)
+I worked as 3C programmer on [Assassin's Creed : Mirage](https://www.ubisoft.com/fr-fr/game/assassins-creed/mirage) and I am shipping [Wartales](https://store.steampowered.com/app/1527950/Wartales/)' DLC.
+
+-----
+
+Contact me on [LinkedIn](https://www.linkedin.com/in/emma-vodable-394b6a150/) 👾
 
 <!--
 **emmavbl/emmavbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
