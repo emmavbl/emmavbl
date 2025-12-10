@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a polyvalent game programmer, fond off UI/UX, accessibility & narrative feature 💁
+I'm Emma Vodable a polyvalent game programmer, fond off UI/UX, accessibility & narrative feature 💁
 
 I worked as 3C programmer on [Assassin's Creed : Mirage](https://www.ubisoft.com/fr-fr/game/assassins-creed/mirage) and I am shipping [Wartales](https://store.steampowered.com/app/1527950/Wartales/)' DLC.
 
